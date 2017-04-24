@@ -1,0 +1,5 @@
+c:\users\pro\documents\visual studio 2013\Projects\Problema1\Consola\bin\Debug\Consola.exe.config
+C:\Users\pro\Documents\Visual Studio 2013\Projects\Problema1\Consola\bin\Debug\Consola.exe
+C:\Users\pro\Documents\Visual Studio 2013\Projects\Problema1\Consola\bin\Debug\Consola.pdb
+C:\Users\pro\Documents\Visual Studio 2013\Projects\Problema1\Consola\obj\Debug\Consola.exe
+C:\Users\pro\Documents\Visual Studio 2013\Projects\Problema1\Consola\obj\Debug\Consola.pdb

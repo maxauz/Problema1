@@ -1,0 +1,7 @@
+C:\Users\pro\Documents\Visual Studio 2013\Projects\Problema1\Testeo\bin\Debug\Testeo.dll
+C:\Users\pro\Documents\Visual Studio 2013\Projects\Problema1\Testeo\bin\Debug\Testeo.pdb
+C:\Users\pro\Documents\Visual Studio 2013\Projects\Problema1\Testeo\bin\Debug\Consola.exe
+C:\Users\pro\Documents\Visual Studio 2013\Projects\Problema1\Testeo\bin\Debug\Consola.pdb
+C:\Users\pro\Documents\Visual Studio 2013\Projects\Problema1\Testeo\obj\Debug\Testeo.csprojResolveAssemblyReference.cache
+C:\Users\pro\Documents\Visual Studio 2013\Projects\Problema1\Testeo\obj\Debug\Testeo.dll
+C:\Users\pro\Documents\Visual Studio 2013\Projects\Problema1\Testeo\obj\Debug\Testeo.pdb
